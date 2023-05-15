@@ -1,0 +1,14 @@
+{
+  "name": "firtapp",
+  "version": "1.0.0",
+  "description": "Exo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yohanne",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
